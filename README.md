@@ -24,10 +24,3 @@ This Tkinter application provides a graphical user interface for selecting and r
 3. Choose a script from the dropdown menu.
 4. Click the "Run" button to execute the selected script.
 5. View the output in the text field.
-
-## 📄 Example
-
-![Tkinter Advanced Application](screenshot.png)
-
-## 📜 License
-
